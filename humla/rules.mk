@@ -1,5 +1,5 @@
-MCU = atmega32u4
-BOOTLOADER = caterina
+MCU = rp2040
+BOOTLOADER = rp2040
 DEFAULT_FOLDER = humla
 BOOTMAGIC_ENABLE = no       # Enable Bootmagic Lite
 CONSOLE_ENABLE = no         # Console for debug
